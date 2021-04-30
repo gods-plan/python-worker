@@ -46,7 +46,7 @@ raven==6.5.0              # via selinon
 requests==2.18.4
 rsa==3.4.2                # via oauth2client
 s3transfer==0.1.13        # via boto3
-scikit-learn==0.19.1
+scikit-learn==0.24.2
 scipy==1.0.0
 selinon[celery,sentry]==1.0.0rc4
 semantic-version==2.6.0
