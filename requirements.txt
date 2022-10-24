@@ -40,7 +40,7 @@ pyasn1-modules==0.2.1     # via oauth2client
 pyasn1==0.4.2             # via oauth2client, pyasn1-modules, rsa
 python-dateutil==2.6.1    # via bigquery-python, botocore
 pytz==2018.3              # via celery
-pyyaml==3.12              # via anymarkup, selinon
+pyyaml==5.4              # via anymarkup, selinon
 rainbow-logging-handler==2.2.2  # via selinon
 raven==6.5.0              # via selinon
 requests==2.18.4
@@ -51,7 +51,7 @@ scipy==1.0.0
 selinon[celery,sentry]==1.0.0rc4
 semantic-version==2.6.0
 six==1.11.0               # via anymarkup-core, configobj, google-api-python-client, oauth2client, python-dateutil
-sqlalchemy==1.2.3
+sqlalchemy==1.2.18
 toml==0.9.4               # via anymarkup
 unidiff==0.5.5
 uritemplate==3.0.0        # via google-api-python-client
