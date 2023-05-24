@@ -43,7 +43,7 @@ pytz==2018.3              # via celery
 pyyaml==3.12              # via anymarkup, selinon
 rainbow-logging-handler==2.2.2  # via selinon
 raven==6.5.0              # via selinon
-requests==2.18.4
+requests==2.31.0
 rsa==3.4.2                # via oauth2client
 s3transfer==0.1.13        # via boto3
 scikit-learn==0.19.1
