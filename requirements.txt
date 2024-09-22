@@ -19,7 +19,7 @@ chardet==3.0.4            # via requests
 click==6.7                # via selinon
 codegen==1.0              # via selinon
 colorama==0.3.9           # via rainbow-logging-handler
-configobj==5.0.6          # via anymarkup
+configobj==5.0.9          # via anymarkup
 docutils==0.14            # via botocore
 git2json==0.2.3
 google-api-python-client==1.6.5  # via bigquery-python
